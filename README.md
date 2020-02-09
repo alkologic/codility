@@ -1,2 +1,2 @@
 # codility
-some elegant solutions
+solutions to some codility taks
