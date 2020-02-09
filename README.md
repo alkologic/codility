@@ -1,2 +1,2 @@
 # codility
-some solutions, that's are elegant
+some elegant solutions
